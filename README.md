@@ -5,4 +5,13 @@
 ![Racoon](https://upload.wikimedia.org/wikipedia/commons/e/ed/Raccoon_%28Procyon_lotor%29_2.jpg)
 
 ---
+
 [Link to cute Racoon](https://www.youtube.com/watch?v=qkTzDh8IKNU)
+
+---
+__I am excited for:__  
+- _learning about coding_  
+- _learning about IDE_  
+- _meeting new People_  
+- _share and gather new possibilities_   
+> The next three months will be a very **exciting time**, as I will learn new things every day.
