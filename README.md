@@ -15,3 +15,5 @@ __I am excited for:__
 - _meeting new People_  
 - _share and gather new possibilities_   
 > The next three months will be a very **exciting time**, as I will learn new things every day.
+---
+![Visitor Count](https://profile-counter.glitch.me/{Braun-Johannes}/count.svg)
