@@ -6,4 +6,3 @@
 </div>
 ---
 ![Visitor Count](https://profile-counter.glitch.me/{Braun-Johannes}/count.svg)
----
