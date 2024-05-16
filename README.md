@@ -7,8 +7,7 @@
 
 
 <div style="display: flex; flex-direction: row;">
- <img class="img" src="https://github-readme-stats.vercel.app/api?username=hussaino03&show_icons=true&theme=radical" />
- <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hussaino03&theme=radical&layout=compact" />
  <img cass="img" src="https://github-readme-stats.vercel.app/api?username=Braun-Johannes&show_icons=true&bg_color=00000000&theme=dark" / >
+ <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Braun-Johannes&theme=radical&layout=compact" />
 </div>
 
