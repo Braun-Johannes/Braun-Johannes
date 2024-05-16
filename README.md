@@ -16,6 +16,6 @@
 <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Braun-Johannes&theme=dark&layout=compact&bg_color=00000000" />
 </div>
 
-<span class="icon-xing">
+<span class="icon-xing-light">
   <a href="https://www.xing.com/profile/Johannes_Braun97" target="_blank" rel="me" aria-label="XING profile"></a>
 </span>
