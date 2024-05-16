@@ -10,6 +10,8 @@
 
 <div style="display: flex; flex-direction: row;">
  <img cass="img" src="https://github-readme-stats.vercel.app/api?username=Braun-Johannes&show_icons=true&bg_color=00000000&theme=dark" / >
- <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Braun-Johannes&theme=dark&layout=compact&bg_color=00000000" />
 </div>
 
+<div style="display: flex; flex-direction: row;">
+<img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Braun-Johannes&theme=dark&layout=compact&bg_color=00000000" />
+</div>
