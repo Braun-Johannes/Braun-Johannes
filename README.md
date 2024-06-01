@@ -4,7 +4,7 @@
 <h3 align="center">Your trusted studying  Web Developer</h3> 
 
 <div id="header" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHZ1Y252ZzEydjhtZG1laWQ4YTlhdzBueXRteHN3a3l4c3kwb2dneiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12vP3dyG40ttqE/giphy.gif" width="800" height="800"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHZ1Y252ZzEydjhtZG1laWQ4YTlhdzBueXRteHN3a3l4c3kwb2dneiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12vP3dyG40ttqE/giphy.gif" width="800" height="400"/>
 </div>
 
 
